@@ -145,10 +145,10 @@ FS.main = {
 			});
 		} else {
 			FS.main.vue = new ol.View({ // création de la vue, par défaut en Mercator
-				center: ol.proj.fromLonLat([7.75,48.58]), // transformation des coordonnées en degrés vers Mercator 
-				zoom: 14, // niveau de zoom
-				extent: [848000,6180500,880000,6221800], // étendue maximale du centre de la carte
-				minZoom : 11,
+				center: ol.proj.fromLonLat([5.613141,48.688912]), // transformation des coordonnées en degrés vers Mercator 
+				zoom: 8, // niveau de zoom
+				extent: [400000,5500000,920000,7000000], // étendue maximale du centre de la carte
+				minZoom : 8,
 				maxZoom : 21
 			});
 		}
