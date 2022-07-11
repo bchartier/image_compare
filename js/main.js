@@ -140,7 +140,7 @@ FS.main = {
 				center: [parseFloat(X), parseFloat(Y)],
 				zoom: Z, // niveau de zoom
 				extent: [848000,6180500,880000,6221800], // étendue maximale du centre de la carte
-				minZoom : 11,
+				minZoom : 14,
 				maxZoom : 21
 			});
 		} else {
