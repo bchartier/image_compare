@@ -435,7 +435,7 @@ $(function() { //function permet de lancer le contenu lorsque la page est charg√
 	
 
 	}, function(){
-		window.location.href = 'https://sig.strasbourg.eu/DEV_ImageCompare/erreur.html';
+		window.location.href = 'https://www.datagrandest.fr/tools/compare/erreur.html';
 	});
 	
 });

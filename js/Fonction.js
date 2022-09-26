@@ -680,12 +680,12 @@ function Imprimer() {
 	pdf.setFontSize(9);
 	pdf.text(12, 198, FS.main.langage[32][FS.main.langue]);
 	pdf.setTextColor(70,207,192);
-	pdf.textWithLink('www.sig-strasbourg.eu', 170, 198, { url: 'http://www.sig.strasbourg.eu' });
+	pdf.textWithLink('https://www.datagrandest.fr/data4citizen', 170, 198, { url: 'https://www.datagrandest.fr/data4citizen' });
 	pdf.line(170,199,203,199);
 	pdf.setTextColor(0);
 	pdf.text(225, 198, FS.main.langage[33][FS.main.langue]);
 	pdf.setTextColor(70,207,192);
-	pdf.textWithLink('geomatique@strasbourg.eu', 240, 198, { url: "mailto:geomatique@strasbourg.eu?&subject=Comparaison d'images historiques" });
+	pdf.textWithLink('contact@datagrandest.fr', 240, 198, { url: "mailto:contact@datagrandest.fr?&subject=Comparaison d'images historiques" });
 	pdf.line(240,199,279,199);
 	
 	/**------------------------------------

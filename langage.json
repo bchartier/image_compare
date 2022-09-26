@@ -1,6 +1,6 @@
 [
     ["fr","en","de","es"],
-    ["Strasbourg au fil du temps...","Strasbourg over time...","Straßburg im Laufe der Zeit...","Estrasburgo a lo largo del tiempo..."],
+    ["Le Grand Est au fil du temps...","Le Grand Est au fil du temps...","Le Grand Est au fil du temps...","Le Grand Est au fil du temps..."],
     ["Comparer","Compare","Vergleichen","Comparar"],
     ["Opacité :","Opacity:","Opazität:","Opacidad:"],
     ["Avec","With","Mit","Con"],
@@ -13,7 +13,7 @@
     ["De nombreux outils de cette page web ne sont pas compatibles avec Internet Explorer. Pour un fonctionnement optimal, vous pouvez utiliser","Many of the tools on this web page are not compatible with Internet Explorer. For optimal operation, you can use","Viele der Tools auf dieser Webseite sind nicht mit Internet Explorer kompatibel. Für einen optimalen Betrieb können Sie verwenden","Muchas de las herramientas en esta página web no son compatibles con Internet Explorer. Para un funcionamiento óptimo, puede usar"],
     ["ou","or","oder","o"],
     ["Appuyez sur Echap pour fermer cette fenêtre.","Press Esc to close this window.","Drücken Sie die Esc-Taste, um dieses Fenster zu schließen.","Presione Esc para cerrar esta ventana."],
-    ["Retour sur le site Internet du service Géomatique et connaissance du territoire","Return to the Geomatics and knowledge of the territory department website","Zurück zur Website der Abteilung Geomatik und Kenntnis des Territoriums","Regresar al sitio web del servicio de Geomática y Conocimiento del Territorio"],
+    ["Retour sur le site DataGrandEst","Retour sur le site DataGrandEst","Retour sur le site DataGrandEst","Retour sur le site DataGrandEst"],
     ["Accès direct à la page de téléchargement des cartes anciennes en PDF","Direct access to the download page of old maps in PDF","Direkter Zugang zum Download alter Karten in PDF","Acceso directo a la página de descarga de mapas antiguos en PDF"],
     ["Cartes côte à côte et synchronisées. Ce mode est incompatible avec la gestion d'opacité et la coulisse de comparaison","Maps side by side and synchronized. This mode is incompatible with opacity management and the comparison slide","Karten nebeneinander und synchronisiert. Dieser Modus ist nicht mit der Opazitätsverwaltung und dem Vergleichsschieber kompatibel","Mapas uno al lado del otro y sincronizados. Este modo es incompatible con la gestión de opacidad y la diapositiva de comparación."	],
     ["Cartes superposeés : utilisez les curseurs pour changer les opacités","Superimposed cards: use the sliders to change opacities","Überlagerte Karten: Verwenden Sie die Schieberegler, um die Deckkraft zu ändern","Mapas superpuestas: use los controles deslizantes para cambiar las opacidades"],
@@ -31,7 +31,7 @@
     ["Image de gauche :","Left image:","Linkes Bild:","Imagen izquierda:"],
     ["Image de droite :","Right image:","Rechtes Bild:","Imagen derecha:"],
     ["(métadonnées)","(metadata)","(Metadaten)", "(metadatos)"],
-    ["Direction Urbanisme et territoires - service Géomatique et connaissance du territoire","Urbanism and territories direction - Geomatics and knowledge of the territory department","Direktion Stadtplanung und Territorien - Abteilung Geomatik und Kenntnis des Territoriums","Dirección Urbanismo y territorios - Servicio de geomática y conocimiento del territorio."],
+    ["DataGrandEst","DataGrandEst","DataGrandEst","DataGrandEst"],
     ["Contact :","Contact:","Kontact:","Contacto:"],
     ["Cliquez pour continuer à dessiner la surface","Click to continue drawing the surface","Klicken Sie, um mit dem Zeichnen der Oberfläche fortzufahren","Haga clic para continuar dibujando la superficie"],
     ["Cliquez pour continuer à dessiner la ligne","Click to continue drawing the line","Klicken Sie, um mit dem Zeichnen der Linie fortzufahren","Haga clic para continuar dibujando la línea"],
@@ -43,6 +43,6 @@
     ["Copier dans le presse papier","Copy to clipboard","In die Zwischenablage kopieren","Copiar al portapapeles"],
     ["Envoyer par e-mail","Send by e-mail","per E-Mail senden","Enviar por correo electrónico"],
     ["Annuler","Cancel","Stornieren","Cancelar"],
-    ["Comparaison d'images historiques de Strasbourg","Comparison of historical images of Strasbourg","Vergleich historischer Bilder von Straßburg","Comparación de imágenes históricas de Estrasburgo"],
+    ["Comparaison d'images historiques du Grand Est","Comparaison d'images historiques du Grand Est","Comparaison d'images historiques du Grand Est","Comparaison d'images historiques du Grand Est"],
     ["default",1]
 ]
