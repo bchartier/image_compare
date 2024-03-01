@@ -105,9 +105,9 @@
 		"wms"
 	],
 	[
-		"ocs2010",
+		"ocs_grand_est_2010",
 		"https://www.datagrandest.fr/geoserver/geograndest/wms",
-		"ocs2010",
+		"ocs_grand_est_2010",
 		1,
 		0,
 		"Occupation du sol 2010",
@@ -117,15 +117,27 @@
 		"wms"
 	],
 	[
-		"ocs2019",
+		"ocs_grand_est_2019",
 		"https://www.datagrandest.fr/geoserver/geograndest/wms",
-		"ocs2019",
+		"ocs_grand_est_2019",
 		1,
 		0,
 		"Occupation du sol 2019",
 		"Occupation du sol 2019",
 		"Occupation du sol 2019",
 		"Occupation du sol 2019",
+		"wms"
+	],
+	[
+		"ocs_grand_est_2021",
+		"https://www.datagrandest.fr/geoserver/geograndest/wms",
+		"ocs_grand_est_2021",
+		1,
+		0,
+		"Occupation du sol 2021",
+		"Occupation du sol 2021",
+		"Occupation du sol 2021",
+		"Occupation du sol 2021",
 		"wms"
 	],
 	[
