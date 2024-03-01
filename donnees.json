@@ -202,8 +202,8 @@
 	],
 	[
 		"gpu_du",
-		"https://www.datagrandest.fr/geoserver/gpu/wms",
-		"GPU_documents_emprise",
+		"https://wxs-gpu.mongeoportail.ign.fr/externe/i9ytmrb6tgtq5yfek781ntqi/wms/v",
+		"du",
 		1,
 		0,
 		"GPU - Docs d'urbanisme",
@@ -214,26 +214,14 @@
 	],
 	[
 		"gpu_zonage",
-		"https://www.datagrandest.fr/geoserver/gpu/wms",
-		"GPU_zonage_emprise",
+		"https://wxs-gpu.mongeoportail.ign.fr/externe/i9ytmrb6tgtq5yfek781ntqi/wms/v",
+		"zone_secteur",
 		1,
 		0,
 		"GPU - Zonages des docs d'urba",
 		"GPU - Zonages des docs d'urba",
 		"GPU - Zonages des docs d'urba",
 		"GPU - Zonages des docs d'urba",
-		"wms"
-	],
-	[
-		"gpu_zonage_rnu",
-		"https://www.datagrandest.fr/geoserver/gpu/wms",
-		"GPU_zonage_rnu_emprise",
-		1,
-		0,
-		"GPU - Zonages des docs d'urban et RNU",
-		"GPU - Zonages des docs d'urban et RNU",
-		"GPU - Zonages des docs d'urban et RNU",
-		"GPU - Zonages des docs d'urban et RNU",
 		"wms"
 	],
 	[
